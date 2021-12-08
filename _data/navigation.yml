@@ -1,3 +1,5 @@
 main:
   - title: "Publications"
     url: /posts/
+  - title: "Software"
+    url: /software/
