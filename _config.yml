@@ -67,7 +67,7 @@ author:
       
     - label: "Phone"
       icon: "fa fa-fw fa-phone"
-      url: "+81-46-844-5057"
+      url: "tel:+81468445057"
       
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
