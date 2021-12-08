@@ -9,10 +9,17 @@ header:
 title: "About me"
 ---
 
-### Affiliation
+## Interests
+
+* Computational mechanics
+* Geotechnical engineering
+
+## Affiliation
 
 **[Port and Airport Research Institute](https://www.pari.go.jp/en/)**
 
 Location: Yokosuka, Japan
+
 Department: Geotechnical Engineering
+
 Position: Researcher
