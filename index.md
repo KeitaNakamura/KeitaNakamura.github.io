@@ -14,7 +14,7 @@ title: "About me"
 * Computational mechanics
 * Geotechnical engineering
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/hourglass.gif)
+{% include figure image_path="/assets/images/hourglass.gif" caption="Coupling simulations between MPM and rigid surfaces." %}
 
 ## Affiliation
 
