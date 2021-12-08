@@ -14,8 +14,6 @@ title: "About me"
 * Computational mechanics
 * Geotechnical engineering
 
-{% include figure image_path="/assets/images/hourglass.gif" caption="Coupling simulations between MPM and rigid surfaces." %}
-
 ## Affiliation
 
 **[Port and Airport Research Institute](https://www.pari.go.jp/en/)**
