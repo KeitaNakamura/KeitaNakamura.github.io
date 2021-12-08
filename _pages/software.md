@@ -14,4 +14,4 @@ header:
 ## [Vim](https://www.vim.org)
 
 * [neodark.vim](https://github.com/KeitaNakamura/neodark.vim) -- A dark color scheme for vim
-* [tex-conceal.vim](https://github.com/KeitaNakamura/tex-conceal.vim) -- Extend the Vim's Conceal feature for LaTeX
+* [tex-conceal.vim](https://github.com/KeitaNakamura/tex-conceal.vim) -- Extends vim's conceal feature for LaTeX
