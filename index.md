@@ -7,3 +7,19 @@ author_profile: true
 header:
   image: /assets/images/image-home.jpg
 ---
+
+# Affiliation
+
+**[Port and Airport Research Institute](https://www.pari.go.jp/en/)**
+
+### Location
+
+Yokosuka, Japan
+
+### Department
+
+Geotechnical Engineering
+
+### Position
+
+Researcher
