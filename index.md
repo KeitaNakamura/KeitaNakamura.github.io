@@ -9,18 +9,10 @@ header:
 title: "About me"
 ---
 
-#### Affiliation
+### Affiliation
 
 **[Port and Airport Research Institute](https://www.pari.go.jp/en/)**
 
-##### Location
-
-Yokosuka, Japan
-
-##### Department
-
-Geotechnical Engineering
-
-##### Position
-
-Researcher
+Location: Yokosuka, Japan
+Department: Geotechnical Engineering
+Position: Researcher
