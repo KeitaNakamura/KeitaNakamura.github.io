@@ -18,4 +18,4 @@ title: "About me"
 
 **[Port and Airport Research Institute](https://www.pari.go.jp/en/)**
 
-Researcher, Geotechnical Engineering Department.
+Researcher, Foundations Group, Geotechnical Engineering Department
