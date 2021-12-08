@@ -64,6 +64,11 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:nakamura-ke@p.mpat.go.jp"
+      
+    - label: "Phone"
+      icon: "fa fa-fw fa-phone"
+      url: "+81-46-844-5057"
+      
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/KeitaNakamura"
