@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Keita Nakamura"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Researcher in Geomechanics"
+  bio    : "Doctor of Engineering"
   location : "Yokosuka, Japan"
   links:
     - label: "Email"
