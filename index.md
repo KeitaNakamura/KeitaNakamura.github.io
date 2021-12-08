@@ -9,12 +9,12 @@ header:
 title: "About me"
 ---
 
-## Interests
+# Interests
 
 * Computational mechanics
 * Geotechnical engineering
 
-## Affiliation
+# Affiliation
 
 **[Port and Airport Research Institute](https://www.pari.go.jp/en/)**
 
