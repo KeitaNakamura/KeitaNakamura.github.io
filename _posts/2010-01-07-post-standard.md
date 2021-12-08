@@ -1,7 +1,7 @@
 ---
 title: "Particle-to-surface frictional contact algorithm for material point method using weighted least squares"
 categories:
-  - Blog
+  - journal
 tags:
   - Post Formats
   - readability
