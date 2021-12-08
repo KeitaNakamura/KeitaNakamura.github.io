@@ -4,5 +4,5 @@ permalink: /posts/
 layout: posts
 author_profile: true
 header:
-  image: /assets/images/image-home.jpg
+  image: /assets/images/image-publications.jpg
 ---
