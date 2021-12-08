@@ -60,15 +60,14 @@ author:
   name   : "Keita Nakamura"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Researcher in Geomechanics"
+  location : "Yokosuka, Japan"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:nakamura-ke@p.mpat.go.jp"
-      
     - label: "Phone"
       icon: "fa fa-fw fa-phone"
       url: "tel:+81468445057"
-      
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/KeitaNakamura"
