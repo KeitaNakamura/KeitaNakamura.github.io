@@ -14,6 +14,9 @@ title: "About me"
 * Computational mechanics
 * Geotechnical engineering
 
+![anim1]({{ site.url }}{{ site.baseurl }}/assets/images/anim1.gif)
+![anim2]({{ site.url }}{{ site.baseurl }}/assets/images/anim2.gif)
+
 ## Affiliation
 
 **[Port and Airport Research Institute](https://www.pari.go.jp/en/)**
