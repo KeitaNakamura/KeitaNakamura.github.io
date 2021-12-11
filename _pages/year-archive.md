@@ -8,4 +8,4 @@ header:
 ---
 
 [Categories]({% link _pages/category-archive.md %})
-[Tags]({% link _pages/tags-archive.md %})
+[Tags]({% link _pages/tag-archive.md %})
