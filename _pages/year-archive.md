@@ -7,4 +7,5 @@ header:
   image: /assets/images/image-publications.jpg
 ---
 
-[document]({% link _pages/category-archive.md %})
+[Categories]({% link _pages/category-archive.md %})
+[Tags]({% link _pages/tags-archive.md %})
