@@ -1,6 +1,6 @@
 ---
 title: "Publications by Category"
 layout: categories
-permalink: /categories/year/month/day/
+permalink: /categories/
 author_profile: true
 ---
