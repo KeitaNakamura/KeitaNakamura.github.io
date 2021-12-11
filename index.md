@@ -14,8 +14,7 @@ title: "About me"
 * Computational mechanics
 * Geotechnical engineering
 
-![anim1]({{ site.url }}{{ site.baseurl }}/assets/images/anim1.gif)
-![anim2]({{ site.url }}{{ site.baseurl }}/assets/images/anim2.gif)
+![anim]({{ site.url }}{{ site.baseurl }}/assets/images/anim.gif)
 
 ## Affiliation
 
