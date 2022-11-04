@@ -2,7 +2,7 @@
 title: "Software"
 permalink: /software/
 header:
-  image: /assets/images/image-software.jpg
+  image: /assets/images/image3.jpg
 ---
 
 ## [Julia](https://julialang.org)

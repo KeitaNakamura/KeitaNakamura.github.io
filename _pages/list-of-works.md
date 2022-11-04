@@ -2,7 +2,7 @@
 title: ""
 permalink: /list-of-works/
 header:
-  image: /assets/images/image-publications.jpg
+  image: /assets/images/image2.jpg
 ---
 
 # Peer-reviewed publications
