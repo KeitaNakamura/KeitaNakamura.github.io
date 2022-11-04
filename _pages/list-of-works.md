@@ -2,6 +2,7 @@
 title: ""
 permalink: /list-of-works/
 layout: single
+classes: wide
 author_profile: true
 header:
   image: /assets/images/image-publications.jpg
