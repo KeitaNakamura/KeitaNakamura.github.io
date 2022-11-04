@@ -2,6 +2,7 @@
 title: "Software"
 permalink: /software/
 layout: single
+classes: wide
 author_profile: true
 header:
   image: /assets/images/image-software.jpg
