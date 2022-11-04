@@ -16,7 +16,7 @@ header:
 
 # Publications in proceedings
 
-* [Nakamura, K., Kikumoto, M. A rotational hardening model applicable to finite strain analysis based on multiplicative decomposition of plastic deformation gradient tensor.](https://yo-1.ct.ntust.edu.tw:8887/tgssp/file/16ARC/file/TC103-009_JGS-077.pdf)
+* [Nakamura, K., Kikumoto, M. (2019). A rotational hardening model applicable to finite strain analysis based on multiplicative decomposition of plastic deformation gradient tensor.](https://yo-1.ct.ntust.edu.tw:8887/tgssp/file/16ARC/file/TC103-009_JGS-077.pdf)
 * [Nakamura, K., Kikumoto, M. (2016). A finite strain elastoplastic constitutive model for unsaturated soils incorporating mechanisms of compaction and hydraulic collapse. In E3S Web of Conferences (Vol. 9, p. 17001). EDP Sciences.](https://www.e3s-conferences.org/articles/e3sconf/abs/2016/04/e3sconf_eunsat2016_17001/e3sconf_eunsat2016_17001.html)
 
 # Others
