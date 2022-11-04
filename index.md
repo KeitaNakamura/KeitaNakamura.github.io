@@ -18,6 +18,6 @@ title: "About me"
 
 ## Affiliation
 
-**[Port and Airport Research Institute](https://www.pari.go.jp/en/)**
+Researcher, Foundations Group, Geotechnical Engineering Department, [Port and Airport Research Institute](https://www.pari.go.jp/en/)
 
-Researcher, Foundations Group, Geotechnical Engineering Department
+港湾空港技術研究所 地盤研究領域 基礎工研究グループ 研究官
