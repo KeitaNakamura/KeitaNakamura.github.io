@@ -3,6 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
+classes: wide
 author_profile: true
 header:
   image: /assets/images/image-home.jpg
@@ -14,7 +15,7 @@ title: "About me"
 * Computational mechanics
 * Geotechnical engineering
 
-![anim]({{ site.url }}{{ site.baseurl }}/assets/images/anim.gif)
+![anim]({{ site.url }}{{ site.baseurl }}/assets/images/anim.gif){: width="500"}
 
 ## Affiliation
 
