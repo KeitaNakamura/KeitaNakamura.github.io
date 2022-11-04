@@ -3,8 +3,6 @@ title: ""
 permalink: /list-of-works/
 layout: single
 author_profile: true
-toc: true
-toc_label: List of works
 header:
   image: /assets/images/image-publications.jpg
 ---
@@ -32,3 +30,5 @@ header:
 
 * [Granular Matter](https://www.springer.com/journal/10035)
 * [Rock Mechanics and Rock Engineering](https://www.springer.com/journal/603)
+* 材料（日本材料学会）
+* 応用力学論文集（土木学会）
