@@ -1,4 +1,5 @@
 ---
+title: ""
 permalink: /list-of-works/
 layout: single
 author_profile: true
