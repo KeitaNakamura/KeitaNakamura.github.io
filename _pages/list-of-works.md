@@ -1,9 +1,9 @@
 ---
-title: "List of works"
 permalink: /list-of-works/
 layout: single
 author_profile: true
 toc: true
+toc_label: List of works
 header:
   image: /assets/images/image-publications.jpg
 ---
