@@ -29,4 +29,4 @@ header:
 * [Granular Matter](https://www.springer.com/journal/10035)
 * [Rock Mechanics and Rock Engineering](https://www.springer.com/journal/603)
 * 材料（日本材料学会）
-* 応用力学論文集（土木学会）
+* 土木学会論文集（応用力学, 地圏工学）
