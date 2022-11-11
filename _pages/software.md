@@ -7,6 +7,7 @@ header:
 
 ## [Julia](https://julialang.org)
 
+* [PoissonDiskSampling.jl](https://github.com/KeitaNakamura/PoissonDiskSampling.jl) -- n-dimensional Poisson disk sampling written in Julia
 * [Tensorial.jl](https://github.com/KeitaNakamura/Tensorial.jl) -- Statically sized tensors and related operations for Julia
 
 ## [Vim](https://www.vim.org)
