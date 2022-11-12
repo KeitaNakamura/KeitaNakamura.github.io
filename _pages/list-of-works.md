@@ -7,7 +7,8 @@ header:
 
 # Peer-reviewed publications
 
-* [Nakamura, K., Matsumura, S., Mizutani, T. (2021). Particle-to-surface frictional contact algorithm for material point method using weighted least squares. Computers and Geotechnics, 134, 104069.](https://www.sciencedirect.com/science/article/pii/S0266352X21000732)
+* [Nakamura, K., Matsumura, S., Mizutani, T. (2023). Taylor particle-in-cell transfer and kernel correction for material point method. Computer Methods in Applied Mechanics and Engineering, 403, 115720.](https://doi.org/10.1016/j.cma.2022.115720)
+* [Nakamura, K., Matsumura, S., Mizutani, T. (2021). Particle-to-surface frictional contact algorithm for material point method using weighted least squares. Computers and Geotechnics, 134, 104069.](https://doi.org/10.1016/j.compgeo.2021.104069)
 * [Nakamura, K., Kikumoto, M. (2018). New concept to describe three-phase capillary pressure–degree of saturation relationship in porous media. Journal of contaminant hydrology, 214, 1-15.](https://www.sciencedirect.com/science/article/pii/S0169772217302681)
 * [Kikumoto, M., Nakamura, K. (2017). Simulation of seepage flow of non-aqueous phase liquid in vadose zone. Environmental Geotechnics, 4(3), 171-183.](https://www.icevirtuallibrary.com/doi/10.1680/jenge.15.00011)
 * [Nakamura, K., Kikumoto, M. (2014). Modeling water–NAPL–air three-phase capillary behavior in soils. Soils and Foundations, 54(6), 1225-1235.](https://www.sciencedirect.com/science/article/pii/S0038080614001334)
