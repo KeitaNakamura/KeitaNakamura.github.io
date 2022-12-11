@@ -16,7 +16,9 @@ header:
 # Publications in proceedings
 
 * [Nakamura, K., Kikumoto, M. (2019). A rotational hardening model applicable to finite strain analysis based on multiplicative decomposition of plastic deformation gradient tensor.](https://yo-1.ct.ntust.edu.tw:8887/tgssp/file/16ARC/file/TC103-009_JGS-077.pdf)
+* [Pham, V., Nguyen, Q., Kikumoto, M., Nakamura, K. (2018). Analysis of the bearing capacity of strip footing on crushable soil. In Numerical Methods in Geotechnical Engineering IX (pp. 227-235). CRC Press.](https://www.taylorfrancis.com/chapters/edit/10.1201/9780429446931-29/analysis-bearing-capacity-strip-footing-crushable-soil-vu-pham-quang-nguyen-mamoru-kikumoto-keita-nakamura)
 * [Nakamura, K., Kikumoto, M. (2016). A finite strain elastoplastic constitutive model for unsaturated soils incorporating mechanisms of compaction and hydraulic collapse. In E3S Web of Conferences (Vol. 9, p. 17001). EDP Sciences.](https://www.e3s-conferences.org/articles/e3sconf/abs/2016/04/e3sconf_eunsat2016_17001/e3sconf_eunsat2016_17001.html)
+* [Kikumoto, M., Nakamura, K. (2015). Three-phase FE simulation for the penetration behaviors of LNAPL and DNAPL into the unsaturated ground. In Computer Methods and Recent Advances in Geomechanics: Proceedings of the 14th International Conference of International Association for Computer Methods and Recent Advances in Geomechanics, 2014 (IACMAG 2014) (pp. 1373-1378). Taylor & Francis Books Ltd.](https://www.proquest.com/openview/a2202106d2a13f6d94fe9f49e0ebd3d4/1?pq-origsite=gscholar&cbl=2069212)
 
 # Others
 
@@ -24,6 +26,7 @@ header:
 * [中村圭太, 元水佑介, 松村聡, 水谷崇亮, 大下英治, 新谷聡, 坂本易隆, 末政直晃. (2021). 開端ストレート・テーパー杭の支持力特性に関する大型模型実験. 港湾空港技術研究所報告・資料= Report and technical note of the Port and Airport Research Institute, 1-27.](https://www.pari.go.jp/report_search/detail.php?id=20211228100114)
 * [中村圭太, 松村聡, 水谷崇亮. (2021). MPM-剛体シミュレーションのための最小二乗法を用いた摩擦接触アルゴリズムの開発と開端杭の地盤への貫入挙動への適用. 港湾空港技術研究所報告・資料= Report and technical note of the Port and Airport Research Institute, 3-24.](https://www.pari.go.jp/report_search/detail.php?id=20210714165703)
 * [中村圭太, 元水佑介, 松村聡, 水谷崇亮, 新谷聡, 大下英治, 末政直晃. (2019). 開端杭の引抜き抵抗力に及ぼす施工過程と杭形状の影響に関する模型実験. 港湾空港技術研究所資料= Technical note of the Port and Airport Research Institute, (1364), 1-40.](https://www.pari.go.jp/report_search/detail.php?id=20191205145235)
+* [木谷憶人, 菊本統, 中村圭太. (2014). ヒステリシスを考慮した水‐NAPL‐空気 3 相系の特性曲線モデル. 土木学会論文集 A2 (応用力学), 70(2), I_859-I_868.](https://www.jstage.jst.go.jp/article/jscejam/70/2/70_I_859/_article/-char/ja/)
 
 # Peer reviews
 
