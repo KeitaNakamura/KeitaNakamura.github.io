@@ -22,10 +22,10 @@ header:
 
 # Others
 
-* [中村圭太, 松村聡, 水谷崇亮. (2021). MPM を用いた開端ストレート・テーパー杭の支持力特性に関する解析的研究. 港湾空港技術研究所報告・資料= Report and technical note of the Port and Airport Research Institute, 3-23.](https://www.pari.go.jp/report_search/detail.php?id=20211223173407)
-* [中村圭太, 元水佑介, 松村聡, 水谷崇亮, 大下英治, 新谷聡, 坂本易隆, 末政直晃. (2021). 開端ストレート・テーパー杭の支持力特性に関する大型模型実験. 港湾空港技術研究所報告・資料= Report and technical note of the Port and Airport Research Institute, 1-27.](https://www.pari.go.jp/report_search/detail.php?id=20211228100114)
-* [中村圭太, 松村聡, 水谷崇亮. (2021). MPM-剛体シミュレーションのための最小二乗法を用いた摩擦接触アルゴリズムの開発と開端杭の地盤への貫入挙動への適用. 港湾空港技術研究所報告・資料= Report and technical note of the Port and Airport Research Institute, 3-24.](https://www.pari.go.jp/report_search/detail.php?id=20210714165703)
-* [中村圭太, 元水佑介, 松村聡, 水谷崇亮, 新谷聡, 大下英治, 末政直晃. (2019). 開端杭の引抜き抵抗力に及ぼす施工過程と杭形状の影響に関する模型実験. 港湾空港技術研究所資料= Technical note of the Port and Airport Research Institute, (1364), 1-40.](https://www.pari.go.jp/report_search/detail.php?id=20191205145235)
+* [中村圭太, 松村聡, 水谷崇亮. (2021). MPM を用いた開端ストレート・テーパー杭の支持力特性に関する解析的研究. 港湾空港技術研究所報告・資料= Report and technical note of the Port and Airport Research Institute, 3-23.](https://pari-y8sv.movabletype.biz/2021/12/20211223173407.html)
+* [中村圭太, 元水佑介, 松村聡, 水谷崇亮, 大下英治, 新谷聡, 坂本易隆, 末政直晃. (2021). 開端ストレート・テーパー杭の支持力特性に関する大型模型実験. 港湾空港技術研究所報告・資料= Report and technical note of the Port and Airport Research Institute, 1-27.](https://pari-y8sv.movabletype.biz/2021/12/20211228100114.html)
+* [中村圭太, 松村聡, 水谷崇亮. (2021). MPM-剛体シミュレーションのための最小二乗法を用いた摩擦接触アルゴリズムの開発と開端杭の地盤への貫入挙動への適用. 港湾空港技術研究所報告・資料= Report and technical note of the Port and Airport Research Institute, 3-24.](https://pari-y8sv.movabletype.biz/2021/06/20210714165703.html)
+* [中村圭太, 元水佑介, 松村聡, 水谷崇亮, 新谷聡, 大下英治, 末政直晃. (2019). 開端杭の引抜き抵抗力に及ぼす施工過程と杭形状の影響に関する模型実験. 港湾空港技術研究所資料= Technical note of the Port and Airport Research Institute, (1364), 1-40.](https://pari-y8sv.movabletype.biz/2019/11/20191205145235.html)
 * [木谷憶人, 菊本統, 中村圭太. (2014). ヒステリシスを考慮した水‐NAPL‐空気 3 相系の特性曲線モデル. 土木学会論文集 A2 (応用力学), 70(2), I_859-I_868.](https://www.jstage.jst.go.jp/article/jscejam/70/2/70_I_859/_article/-char/ja/)
 
 # Peer reviews
