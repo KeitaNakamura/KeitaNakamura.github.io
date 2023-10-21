@@ -32,6 +32,7 @@ header:
 
 # Peer reviews
 
+* [Computer Methods in Applied Mechanics and Engineering](https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering)
 * [Engineering Analysis with Boundary Elements](https://www.sciencedirect.com/journal/engineering-analysis-with-boundary-elements)
 * [Granular Matter](https://www.springer.com/journal/10035)
 * [Rock Mechanics and Rock Engineering](https://www.springer.com/journal/603)
