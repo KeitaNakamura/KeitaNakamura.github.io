@@ -4,15 +4,16 @@ classes: wide
 author_profile: true
 header:
   image: /assets/images/image1.jpg
-title: "About me"
+title: "Biography"
 ---
+
+Keita Nakamura is a researcher at the Port and Airport Research Institute.
+His work focuses on computational mechanics and its application to geotechnical engineering.
 
 ## Interests
 
 * Computational mechanics
-* Geotechnical engineering
-
-![anim]({{ site.url }}{{ site.baseurl }}/assets/images/anim.gif){: width="500"}
+* Programming (currently using [Julia](https://julialang.org))
 
 ## Affiliation
 

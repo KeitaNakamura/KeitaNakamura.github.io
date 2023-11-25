@@ -1,5 +1,7 @@
 main:
   - title: "List of works"
     url: /list-of-works/
-  - title: "Software"
-    url: /software/
+  - title: "Simulations"
+    url: /simulations/
+  - title: "Open source"
+    url: /open-source/

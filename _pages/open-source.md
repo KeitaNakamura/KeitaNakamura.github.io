@@ -1,6 +1,6 @@
 ---
-title: "Software"
-permalink: /software/
+title: "Open source"
+permalink: /open-source/
 header:
   image: /assets/images/image3.jpg
 ---
