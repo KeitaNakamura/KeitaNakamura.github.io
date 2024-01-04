@@ -8,7 +8,9 @@ title: "Biography"
 ---
 
 Keita Nakamura is a researcher at the Port and Airport Research Institute.
-His work focuses on computational mechanics and its application to geotechnical engineering.
+His research focuses on computational mechanics and its application to geotechnical engineering.
+His prior research explored ground contamination, constitutive modeling of the anisotropic behavior of soils, and the finite strain theory in continuum mechanics.
+Recently, he has shifted his focus to the material point method, actively contributing to the development of a frictional contact algorithm with rigid bodies and a new integration scheme.
 
 ## Interests
 
