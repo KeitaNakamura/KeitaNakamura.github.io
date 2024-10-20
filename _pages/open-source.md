@@ -7,12 +7,8 @@ header:
 
 ## [Julia](https://julialang.org)
 
-* [GmshReader.jl](https://github.com/KeitaNakamura/GmshReader.jl) -- Simple Gmsh reader for Julia
-* [PileWave.jl](https://github.com/KeitaNakamura/PileWave.jl) -- Pile driving analysis based on 1D wave propagation using FEM
-* [PointToTriangle.jl](https://github.com/KeitaNakamura/PointToTriangle.jl) -- Fast point-to-triangle distance computation in 3D
-* [PoissonDiskSampling.jl](https://github.com/KeitaNakamura/PoissonDiskSampling.jl) -- n-dimensional Poisson disk sampling
-* [Tensorial.jl](https://github.com/KeitaNakamura/Tensorial.jl) -- Statically sized tensors and related operations
-* [TOMLX.jl](https://github.com/KeitaNakamura/TOMLX.jl) -- Extended TOML parser for Julia expressions
+* [Tensorial.jl](https://github.com/KeitaNakamura/Tensorial.jl) -- Statically sized tensors and related operations for Julia
+* [Tesserae.jl](https://github.com/KeitaNakamura/Tesserae.jl) -- A Julia-powered toolkit for material point method
 
 ## [Vim](https://www.vim.org)
 
