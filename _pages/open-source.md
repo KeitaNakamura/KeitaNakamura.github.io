@@ -8,7 +8,7 @@ header:
 ## [Julia](https://julialang.org)
 
 * [Tensorial.jl](https://github.com/KeitaNakamura/Tensorial.jl) -- Statically sized tensors and related operations for Julia
-* [Tesserae.jl](https://github.com/KeitaNakamura/Tesserae.jl) -- A Julia-powered toolkit for material point method
+* [Tesserae.jl](https://github.com/KeitaNakamura/Tesserae.jl) -- A Julia toolkit for the material point method
 
 ## [Vim](https://www.vim.org)
 
